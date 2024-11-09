@@ -1,0 +1,5 @@
+streamlit
+pandas
+plost
+plotly
+streamlit_antd_components
